@@ -2,7 +2,7 @@
 <h3>Welcome to my page</h3> 
 The name's Sazvar, Mani Sazvar! 😎
 
-- 🔭 I’m currently studying computer engineering at Iran uinversity of science and technology.
+- 🔭 I’m currently studying computer engineering at Iran university of science and technology.
 - 🌱 I’m currently learning Machine Learning at Behyaar co.
 - 👯 I’m looking to collaborate on technological and innovative projects to further push boundaries!
 - 📫 Feel free to contact me
