@@ -11,3 +11,11 @@ The name's Sazvar, Mani Sazvar!
 <a href="mailto:manisazvar2006@gmail.com">Email</a>
 <a href="https://t.me/Mani_The_Great" target="_blank">Telegram</a>
 <a href="https://instagram.com/mani.the_great" target="_blank">Instagram</a>
+
+### 🔥 Contribution Graph
+[![Mani's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mani-the-great&theme=react-dark&hide_border=true)](https://github.com/mani-the-great)
+
+
+### 🏆 Achievements
+
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mani-the-great&theme=tokyonight)
