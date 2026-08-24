@@ -7,12 +7,11 @@ The name's Sazvar, Mani Sazvar!
 - ✅ I’m looking to collaborate on technological and innovative projects to further push boundaries!
 - 📫 Feel free to contact me
 <div align="left">
-  <a href="https://linkedin.com/in/parham-pishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
-  <a href="https://t.me/ParhamPishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
-  <a href="https://PrPishro@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
-  <a href="https://instagram.com/parhampishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
-  <a href="https://x.com/@parhampishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
-  <a href="https://wa.me/+989021821691" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo"  />
+  <a href=""https://www.linkedin.com/in/mani-sazvar-0a4918337" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
+  <a href="https://t.me/RAYASALAR_MANI_THE_GREAT" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
+  <a href="mailto:manisazvar2006@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
+  <a href="https://instagram.com/mani.the_great" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
+  <a href="https://x.com/@manithe_great" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
 </div>
 <br><br>
 <a href="https://www.linkedin.com/in/mani-sazvar-0a4918337" target="_blank">LinkedIn</a>
