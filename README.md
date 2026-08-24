@@ -13,11 +13,6 @@ The name's Sazvar, Mani Sazvar!
   <a href="https://instagram.com/mani.the_great" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
   <a href="https://x.com/@manithe_great" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
 </div>
-<br><br>
-<a href="https://www.linkedin.com/in/mani-sazvar-0a4918337" target="_blank">LinkedIn</a>
-<a href="mailto:manisazvar2006@gmail.com">Email</a>
-<a href="https://t.me/Mani_The_Great" target="_blank">Telegram</a>
-<a href="https://instagram.com/mani.the_great" target="_blank">Instagram</a>
 
 ### 🔥 Contributions
 
